@@ -245,7 +245,7 @@
 
 
 
-import pandas as pd
+
 import os
 import cvzone
 import cv2
